@@ -1,9 +1,9 @@
-import ListItem from "./components/ListItem";
+import TodoList from "./features/Todo/TodoList";
 
 function App() {
   return (
     <div>
-      <ListItem />
+      <TodoList />
     </div>
   );
 }
